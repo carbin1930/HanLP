@@ -11,7 +11,7 @@
         <img alt="Python Versions" src="https://img.shields.io/pypi/pyversions/hanlp?colorB=blue">
     </a>
     <a href="https://pepy.tech/project/hanlp">
-        <img alt="Downloads" src="https://pepy.tech/badge/hanlp">
+        <img alt="Downloads" src="https://static.pepy.tech/badge/hanlp">
     </a>
     <a href="https://mybinder.org/v2/gh/hankcs/HanLP/doc-zh?filepath=plugins%2Fhanlp_demo%2Fhanlp_demo%2Fzh%2Ftutorial.ipynb">
         <img alt="在线运行" src="https://mybinder.org/badge_logo.svg">
